@@ -1,0 +1,7 @@
+Taller 1: Nota 4.4
+    * Al momento de solicitar datos por teclado, debe haber un mensaje claro para que el usuario sepa qué debe digitar en la casilla
+    * La variable en la que se almacena el valor solicitado por teclado, ya fue creada, por tanto, no era necesario la palabra VAR
+    * El mensaje de la línea 12 está mal organizado, las variables deben ir en los espacios que le correponde a cada dentro de la oración.
+
+Taller 2: Nota 4.7
+    * Punto D en el 7, no utiliza la variable distanciaKm en la operacion
