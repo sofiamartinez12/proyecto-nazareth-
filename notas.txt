@@ -11,3 +11,12 @@ Taller 2: Nota 4.7
 Taller 3 (Recuperación): Nota Debía sacar 5 para subir la nota. No lo logró
     * Operacion linea 31, incorrecta
     * Linea 38, mensaje confuso
+
+
+******************************** segundo periodo
+
+Taller 1: nota 4.5
+    * linea 43, falta el = para el 50, debe tomar este número también
+    * punto 12, no muestra mensaje cuando es consonante
+
+Enlace Examen: https://acortar.link/HmjOm1
