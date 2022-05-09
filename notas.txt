@@ -1,4 +1,4 @@
-mariana jaramillo y sofia martinez
+.mariana jaramillo y sofia martinez
 
 Taller 1: Nota 4.4
     * Al momento de solicitar datos por teclado, debe haber un mensaje claro para que el usuario sepa qué debe digitar en la casilla
