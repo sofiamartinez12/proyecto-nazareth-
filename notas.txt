@@ -20,3 +20,7 @@ Taller 1: nota 4.5
     * punto 12, no muestra mensaje cuando es consonante
 
 Enlace Examen: https://acortar.link/HmjOm1
+
+Examen: Nota 4.7
+    * punto 5, si se ingresa un valor diferente al de la lista, no hay ningún mensaje como respuesta
+    * punto 6 no está resuelto. No suma puntos
