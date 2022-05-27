@@ -21,6 +21,16 @@ Taller 1: nota 4.5
 
 Enlace Examen: https://acortar.link/HmjOm1
 
-Examen: Nota 4.7
+Examen condicional: Nota 4.7
     * punto 5, si se ingresa un valor diferente al de la lista, no hay ningún mensaje como respuesta
     * punto 6 no está resuelto. No suma puntos
+
+taller while: nota 4.8
+    * punto 5, debe indicar que el numero debe ser impar para detener el ciclo
+    * no realizaron bonus
+
+examen while: nota 3.8
+    * linea 63, debe ser con ciclo1 no con cantArti porque no se le puede pedir la cantidad al usuario
+    * si la persona compra 30 productos, le aplica el descuento de 10% y no debería. Aplica para cualquier cantidad mayor a 8
+    * linea 84, sobra
+    * linea 86 y 89, la variable perdio no existe
