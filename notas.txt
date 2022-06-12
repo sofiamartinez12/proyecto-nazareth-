@@ -34,3 +34,6 @@ examen while: nota 3.8
     * si la persona compra 30 productos, le aplica el descuento de 10% y no debería. Aplica para cualquier cantidad mayor a 8
     * linea 84, sobra
     * linea 86 y 89, la variable perdio no existe
+
+ciclo for: nota 4.4
+    * punto 4, si el arreglo está lleno de números negativos, no va a mostrar el mayor de ellos sino Cero aunque no pertenezca al arreglo
