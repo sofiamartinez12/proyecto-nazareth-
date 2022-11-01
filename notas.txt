@@ -37,3 +37,8 @@ examen while: nota 3.8
 
 ciclo for: nota 4.4
     * punto 4, si el arreglo está lleno de números negativos, no va a mostrar el mayor de ellos sino Cero aunque no pertenezca al arreglo
+    
+
+
+Geometría:
+    Nota: 4.6 Mensaje incompletos y no tiene en cuenta opciones inválidas que pueda escoger el usuario
