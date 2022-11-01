@@ -42,3 +42,9 @@ ciclo for: nota 4.4
 
 Geometría:
     Nota: 4.6 Mensaje incompletos y no tiene en cuenta opciones inválidas que pueda escoger el usuario
+
+
+cuarto periodo
+
+taller 1:
+    nota: 5 unicamente para Mariana Jaramillo. Las demás integrantes deben sustentar
